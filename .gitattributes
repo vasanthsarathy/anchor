@@ -1,0 +1,2 @@
+faiss_document_store.db filter=lfs diff=lfs merge=lfs -text
+faiss_document_store.faiss filter=lfs diff=lfs merge=lfs -text
